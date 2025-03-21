@@ -51,4 +51,4 @@ The Carbon Crunch website combines attractive visuals with interactive animation
 
 ## Live Preview
 
-You can preview the website live here: [GitHub Pages - Carbon Crunch]()
+You can preview the website live here: [GitHub Pages - Carbon Crunch](https://rohitnegi45.github.io/Carbonics-Project/)
