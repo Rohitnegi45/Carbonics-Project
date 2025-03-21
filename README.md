@@ -47,3 +47,8 @@ Cards with Information: Informative cards with statistics to showcase the import
 
 Conclusion
 The Carbon Crunch website combines attractive visuals with interactive animations to highlight the importance of sustainability and carbon reporting. By leveraging HTML5, CSS3, and JavaScript, this project provides a seamless, engaging user experience that effectively communicates the message of sustainability.
+
+
+## Live Preview
+
+You can preview the website live here: [GitHub Pages - Carbon Crunch]()
